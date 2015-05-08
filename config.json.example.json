@@ -1,6 +1,6 @@
 {
-	"guia" : "http://url/to/guia.xml",
-	"logos" : "http://url/to/logos",
+	"guia.xml" : "http://url/to/guia.xml",
+	"logos.html" : "http://url/to/logos",
 	"output" : "./data/",
 	"port" : 1337,
 	"cacheTime" : 30
