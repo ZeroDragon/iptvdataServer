@@ -1,0 +1,16 @@
+{
+  "name": "ZeroIPtv",
+  "version": "1.0.0",
+  "description": "Server for the IP TV project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "ZeroDragon",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.12.3",
+    "iced-coffee-script": "^1.8.0-d",
+    "request": "^2.55.0"
+  }
+}
